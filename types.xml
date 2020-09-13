@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
 <!-- Zombies -->
 	<type name="MSFC_Zombie_FromLaba01">
         <cargo preset="foodCity" />
@@ -62,7 +64,7 @@
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
     </type>
-<!-- Winchester70 --->
+<!-- Winchester70 -->
     <type name="MSFC_Winchester70_White">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -319,7 +321,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-<!-- UMP --->
+<!-- UMP -->
     <type name="MSFC_UMP_White">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -628,7 +630,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>		
-	<!-- SVD --->
+	<!-- SVD -->
 	<type name="MSFC_SVD_White">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -915,7 +917,7 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-	<!--- SKS --->
+	<!-- SKS -->
 	<type name="MSFC_SKS_White">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -1140,7 +1142,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>	
-	<!--- Weapon Skins Fun --->
+	<!-- Weapon Skins Fun -->
 	<type name="MSFC_M4A1_ORANGE">
          <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -2860,7 +2862,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-	<!--- MP5 --->
+	<!-- MP5 -->
 	<type name="MSFC_MP5K_White">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -3085,7 +3087,7 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
-<!--- Mossin --->
+<!-- Mossin -->
     <type name="MSFC_Mosin9130_White">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -3342,7 +3344,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-<!--- Mossin Sawed Off --->
+<!-- Mossin Sawed Off -->
     <type name="MSFC_SawedoffMosin9130_White">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -3599,7 +3601,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-<!--- M4A1 --->
+<!-- M4A1 -->
     <type name="MSFC_M4A1_White">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -3908,7 +3910,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-<!--- M4A1 Attachements --->
+<!-- M4A1 Attachements -->
     <type name="MSFC_M4_OEBttstck_White">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -4629,7 +4631,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
-<!--- CZ527 --->
+<!-- CZ527 -->
     <type name="MSFC_CZ527_White">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -4886,7 +4888,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-<!--- Weapons Civilan --->
+<!-- Weapons Civilan -->
     <type name="MSFC_VPO136">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -4947,7 +4949,7 @@
         <category name="weapons"/>
         <usage name="Hunting"/>
     </type>
-<!-- AKS-74U --->
+<!-- AKS-74U -->
 	<type name="MSFC_AKS74U_WHITE">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -5284,7 +5286,7 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
     </type>
-<!--- AKM --->
+<!-- AKM -->
     <type name="MSFC_AKM_Tan">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -5649,7 +5651,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-<!--- AK-101 --->
+<!-- AK-101 -->
 	<type name="MSFC_AK101_WHITE">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -5986,7 +5988,7 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
     </type>
-<!--- AK74 --->
+<!-- AK74 -->
 	<type name="MSFC_AK74_WHITE">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -6323,7 +6325,7 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
     </type>
-<!--- AK Attachements --->
+<!-- AK Attachements -->
     <type name="MSFC_AK_PlasticButtstock_White">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -7068,7 +7070,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-<!--- New Weapons --->
+<!-- New Weapons -->
 	<type name="MSFC_RPK">
         <nominal>1</nominal>
         <lifetime>10800</lifetime>
@@ -8247,7 +8249,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-<!--- Items --->
+<!-- Items -->
     <type name="MSFCBeerZhigulevskoe">
         <nominal>70</nominal>
         <lifetime>10800</lifetime>
@@ -8745,7 +8747,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
     </type>
-<!--- 	Clothes SURPAT --->
+<!-- 	Clothes SURPAT -->
     <type name="MSFCM65SURPAT">
         <nominal>5</nominal>
         <lifetime>10800</lifetime>
@@ -9768,7 +9770,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-<!--- Clothes SURPAT Desert --->
+<!-- Clothes SURPAT Desert -->
     <type name="MSFCM65SURPATDesert">
         <nominal>5</nominal>
         <lifetime>10800</lifetime>
@@ -10847,7 +10849,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-<!--- Clothes STALKER --->
+<!-- Clothes STALKER -->
 	<type name="MSFCSTALKERPants">
         <nominal>5</nominal>
         <lifetime>10800</lifetime>
@@ -12052,7 +12054,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-<!--- Clothes Others --->
+<!-- Clothes Others -->
     <type name="MSFCTShirtBlack">
         <nominal>5</nominal>
         <lifetime>10800</lifetime>
@@ -19793,7 +19795,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-<!--- Clothes MultiCam --->
+<!-- Clothes MultiCam -->
     <type name="MSFCM65Multicam">
         <nominal>5</nominal>
         <lifetime>10800</lifetime>
@@ -20872,7 +20874,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-<!--- Clothes MultiCam Tropic --->
+<!-- Clothes MultiCam Tropic -->
 	<type name="MSFCM65MulticamTropic">
         <nominal>5</nominal>
         <lifetime>10800</lifetime>
@@ -21951,7 +21953,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-<!--- Clothes MultiCam Snow --->
+<!-- Clothes MultiCam Snow -->
     <type name="MSFCM65MulticamSnow">
         <nominal>5</nominal>
         <lifetime>10800</lifetime>
@@ -23086,7 +23088,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-<!--- Clothes MulitCam Black --->
+<!-- Clothes MulitCam Black -->
 	<type name="MSFCM65MulticamBlack">
         <nominal>5</nominal>
         <lifetime>10800</lifetime>
@@ -24179,7 +24181,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-<!--- Clothes ATACS - FG --->
+<!-- Clothes ATACS - FG -->
 	<type name="MSFCM65ATACSFG">
         <nominal>5</nominal>
         <lifetime>10800</lifetime>
@@ -25258,7 +25260,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-<!--- Clothes ATACS-AU --->
+<!-- Clothes ATACS-AU -->
 	<type name="MSFCM65ATACSAU">
         <nominal>5</nominal>
         <lifetime>10800</lifetime>
@@ -26337,3 +26339,4 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
+</types>

@@ -322,7 +322,7 @@
 <!-- UMP --->
     <type name="MSFC_UMP_White">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -336,7 +336,7 @@
     </type>			
     <type name="MSFC_UMP_ATACS_FG">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -350,7 +350,7 @@
     </type>		
     <type name="MSFC_UMP_BLUE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -364,7 +364,7 @@
     </type>	
     <type name="MSFC_UMP_EMR">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -378,7 +378,7 @@
     </type>	
     <type name="MSFC_UMP_Flecktarn">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -392,7 +392,7 @@
     </type>	
     <type name="MSFC_UMP_HEX">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -406,7 +406,7 @@
     </type>			
     <type name="MSFC_UMP_MARPAT_WD">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -420,7 +420,7 @@
     </type>	
     <type name="MSFC_UMP_Multicam">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -434,7 +434,7 @@
     </type>	
     <type name="MSFC_UMP_MULTICAM_BLACK">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -448,7 +448,7 @@
     </type>	
     <type name="MSFC_UMP_MULTICAM_TROPIC">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -462,7 +462,7 @@
     </type>		
     <type name="MSFC_UMP_SNAKE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -476,7 +476,7 @@
     </type>	
     <type name="MSFC_UMP_SNAKE_GREEN">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -490,7 +490,7 @@
     </type>	
     <type name="MSFC_UMP_SURPAT">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -504,7 +504,7 @@
     </type>		
     <type name="MSFC_UMP_ViperWestern">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -518,7 +518,7 @@
     </type>	
     <type name="MSFC_UMP_WOODLAND">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -532,7 +532,7 @@
     </type>	
     <type name="MSFC_UMP_ATACS_AU">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -546,7 +546,7 @@
     </type>
     <type name="MSFC_UMP_Kryptek_Banshee">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -560,7 +560,7 @@
     </type>	
     <type name="MSFC_UMP_Kryptek_Neptune">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -574,7 +574,7 @@
     </type>	
     <type name="MSFC_UMP_Kryptek_Typhon">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -588,7 +588,7 @@
     </type>	
     <type name="MSFC_UMP_Kryptek_Mandrake">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -602,7 +602,7 @@
     </type>	
     <type name="MSFC_UMP_Kryptek_Wraith">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -616,7 +616,7 @@
     </type>	
     <type name="MSFC_UMP_Kryptek_Raid">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -918,7 +918,7 @@
 	<!--- SKS --->
 	<type name="MSFC_SKS_White">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -932,7 +932,7 @@
     </type>			
     <type name="MSFC_SKS_ATACS_FG">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -946,7 +946,7 @@
     </type>		
     <type name="MSFC_SKS_BLUE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -960,7 +960,7 @@
     </type>	
     <type name="MSFC_SKS_EMR">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -974,7 +974,7 @@
     </type>	
     <type name="MSFC_SKS_Flecktarn">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -988,7 +988,7 @@
     </type>	
     <type name="MSFC_SKS_HEX">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1002,7 +1002,7 @@
     </type>			
     <type name="MSFC_SKS_MARPAT_WD">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1016,7 +1016,7 @@
     </type>	
     <type name="MSFC_SKS_Multicam">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1030,7 +1030,7 @@
     </type>	
     <type name="MSFC_SKS_MULTICAM_BLACK">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1044,7 +1044,7 @@
     </type>	
     <type name="MSFC_SKS_MULTICAM_TROPIC">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1058,7 +1058,7 @@
     </type>		
     <type name="MSFC_SKS_SNAKE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1072,7 +1072,7 @@
     </type>	
     <type name="MSFC_SKS_SNAKE_GREEN">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1086,7 +1086,7 @@
     </type>	
     <type name="MSFC_SKS_SURPAT">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1100,7 +1100,7 @@
     </type>		
     <type name="MSFC_SKS_ViperWestern">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1114,7 +1114,7 @@
     </type>	
     <type name="MSFC_SKS_WOODLAND">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1128,7 +1128,7 @@
     </type>	
     <type name="MSFC_SKS_ATACS_AU">
 	<nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1143,7 +1143,7 @@
 	<!--- Weapon Skins Fun --->
 	<type name="MSFC_M4A1_ORANGE">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1157,7 +1157,7 @@
     </type>		
     <type name="MSFC_M4A1_RED">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1171,7 +1171,7 @@
     </type>	
     <type name="MSFC_M4A1_DARK">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1185,7 +1185,7 @@
     </type>	
     <type name="MSFC_M4A1_MATRIX">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1199,7 +1199,7 @@
     </type>	
     <type name="MSFC_M4A1_REDBLACKWHITE">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1213,7 +1213,7 @@
     </type>	
     <type name="MSFC_M4A1_Honeycomb">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1227,7 +1227,7 @@
     </type>	
     <type name="MSFC_M4A1_STAR">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1353,7 +1353,7 @@
     </type>	
     <type name="MSFC_MP5K_ORANGE">
       <nominal>20</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1367,7 +1367,7 @@
     </type>		
     <type name="MSFC_MP5K_RED">
       <nominal>20</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1381,7 +1381,7 @@
     </type>	
     <type name="MSFC_MP5K_DARK">
       <nominal>20</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1395,7 +1395,7 @@
     </type>	
     <type name="MSFC_MP5K_MATRIX">
       <nominal>20</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1409,7 +1409,7 @@
     </type>	
     <type name="MSFC_MP5K_REDBLACKWHITE">
       <nominal>20</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1423,7 +1423,7 @@
     </type>	
     <type name="MSFC_MP5K_Honeycomb">
       <nominal>20</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1437,7 +1437,7 @@
     </type>	
     <type name="MSFC_MP5K_STAR">
       <nominal>20</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1563,7 +1563,7 @@
     </type>	
     <type name="MSFC_AKM_HELL">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1577,7 +1577,7 @@
     </type>		
     <type name="MSFC_AKM_Golden">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1591,7 +1591,7 @@
     </type>	
     <type name="MSFC_AKM_ORANGE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1605,7 +1605,7 @@
     </type>		
     <type name="MSFC_AKM_RED">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1619,7 +1619,7 @@
     </type>	
     <type name="MSFC_AKM_DARK">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1633,7 +1633,7 @@
     </type>	
     <type name="MSFC_AKM_MATRIX">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1647,7 +1647,7 @@
     </type>	
     <type name="MSFC_AKM_REDBLACKWHITE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1661,7 +1661,7 @@
     </type>	
     <type name="MSFC_AKM_Honeycomb">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1675,7 +1675,7 @@
     </type>	
     <type name="MSFC_AKM_STAR">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1780,7 +1780,7 @@
     </type>
     <type name="MSFC_SKS_ORANGE">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1794,7 +1794,7 @@
     </type>		
     <type name="MSFC_SKS_RED">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1808,7 +1808,7 @@
     </type>	
     <type name="MSFC_SKS_DARK">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1822,7 +1822,7 @@
     </type>	
     <type name="MSFC_SKS_MATRIX">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1836,7 +1836,7 @@
     </type>	
     <type name="MSFC_SKS_REDBLACKWHITE">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1850,7 +1850,7 @@
     </type>	
     <type name="MSFC_SKS_Honeycomb">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1864,7 +1864,7 @@
     </type>	
     <type name="MSFC_SKS_STAR">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1878,7 +1878,7 @@
     </type>	
     <type name="MSFC_UMP_ORANGE">
         <nominal>20</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1892,7 +1892,7 @@
     </type>		
     <type name="MSFC_UMP_RED">
         <nominal>20</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1906,7 +1906,7 @@
     </type>	
     <type name="MSFC_UMP_DARK">
         <nominal>20</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1920,7 +1920,7 @@
     </type>	
     <type name="MSFC_UMP_MATRIX">
         <nominal>20</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1934,7 +1934,7 @@
     </type>	
     <type name="MSFC_UMP_REDBLACKWHITE">
         <nominal>20</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1948,7 +1948,7 @@
     </type>	
     <type name="MSFC_UMP_Honeycomb">
         <nominal>20</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1962,7 +1962,7 @@
     </type>	
     <type name="MSFC_UMP_STAR">
         <nominal>20</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2592,7 +2592,7 @@
     </type>	
     <type name="MSFC_Mag_AKM_Palm30Rnd_ORANGE">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -2678,7 +2678,7 @@
     </type>	
     <type name="MSFC_Mag_AKM_Drum75Rnd_ORANGE">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -2764,7 +2764,7 @@
     </type>		
     <type name="MSFC_Winchester70_ORANGE">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2778,7 +2778,7 @@
     </type>		
     <type name="MSFC_Winchester70_RED">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2792,7 +2792,7 @@
     </type>	
     <type name="MSFC_Winchester70_DARK">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2806,7 +2806,7 @@
     </type>	
     <type name="MSFC_Winchester70_MATRIX">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2820,7 +2820,7 @@
     </type>	
     <type name="MSFC_Winchester70_REDBLACKWHITE">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2834,7 +2834,7 @@
     </type>	
     <type name="MSFC_Winchester70_Honeycomb">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2848,7 +2848,7 @@
     </type>	
     <type name="MSFC_Winchester70_STAR">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2863,7 +2863,7 @@
 	<!--- MP5 --->
 	<type name="MSFC_MP5K_White">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2877,7 +2877,7 @@
     </type>			
     <type name="MSFC_MP5K_ATACS_FG">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2891,7 +2891,7 @@
     </type>		
     <type name="MSFC_MP5K_BLUE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2905,7 +2905,7 @@
     </type>	
     <type name="MSFC_MP5K_EMR">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2919,7 +2919,7 @@
     </type>	
     <type name="MSFC_MP5K_Flecktarn">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2933,7 +2933,7 @@
     </type>	
     <type name="MSFC_MP5K_HEX">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2947,7 +2947,7 @@
     </type>			
     <type name="MSFC_MP5K_MARPAT_WD">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2961,7 +2961,7 @@
     </type>	
     <type name="MSFC_MP5K_Multicam">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2975,7 +2975,7 @@
     </type>	
     <type name="MSFC_MP5K_MULTICAM_BLACK">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2989,7 +2989,7 @@
     </type>	
     <type name="MSFC_MP5K_MULTICAM_TROPIC">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3003,7 +3003,7 @@
     </type>		
     <type name="MSFC_MP5K_SNAKE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3017,7 +3017,7 @@
     </type>	
     <type name="MSFC_MP5K_SNAKE_GREEN">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3031,7 +3031,7 @@
     </type>	
     <type name="MSFC_MP5K_SURPAT">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3045,7 +3045,7 @@
     </type>		
     <type name="MSFC_MP5K_ViperWestern">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3059,7 +3059,7 @@
     </type>	
     <type name="MSFC_MP5K_WOODLAND">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3073,7 +3073,7 @@
     </type>	
     <type name="MSFC_MP5K_ATACS_AU">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3602,7 +3602,7 @@
 <!--- M4A1 --->
     <type name="MSFC_M4A1_White">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3616,7 +3616,7 @@
     </type>			
     <type name="MSFC_M4A1_ATACS_FG">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3630,7 +3630,7 @@
     </type>		
     <type name="MSFC_M4A1_BLUE">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3644,7 +3644,7 @@
     </type>	
     <type name="MSFC_M4A1_EMR">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3658,7 +3658,7 @@
     </type>	
     <type name="MSFC_M4A1_Flecktarn">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3672,7 +3672,7 @@
     </type>	
     <type name="MSFC_M4A1_HEX">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3686,7 +3686,7 @@
     </type>			
     <type name="MSFC_M4A1_MARPAT_WD">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3700,7 +3700,7 @@
     </type>	
     <type name="MSFC_M4A1_Multicam">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3714,7 +3714,7 @@
     </type>	
     <type name="MSFC_M4A1_MulticamBlack">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3728,7 +3728,7 @@
     </type>	
     <type name="MSFC_M4A1_MulticamTropic">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3742,7 +3742,7 @@
     </type>		
     <type name="MSFC_M4A1_SNAKE">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3756,7 +3756,7 @@
     </type>	
     <type name="MSFC_M4A1_SNAKE_GREEN">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3770,7 +3770,7 @@
     </type>	
     <type name="MSFC_M4A1_SURPAT">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3784,7 +3784,7 @@
     </type>		
     <type name="MSFC_M4A1_ViperWestern">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3798,7 +3798,7 @@
     </type>	
     <type name="MSFC_M4A1_WOODLAND">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3812,7 +3812,7 @@
     </type>	
     <type name="MSFC_M4A1_ATACS_AU">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3826,7 +3826,7 @@
     </type>
     <type name="MSFC_M4A1_Kryptek_Banshee">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3840,7 +3840,7 @@
     </type>	
     <type name="MSFC_M4A1_Kryptek_Neptune">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3854,7 +3854,7 @@
     </type>	
     <type name="MSFC_M4A1_Kryptek_Typhon">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3868,7 +3868,7 @@
     </type>	
     <type name="MSFC_M4A1_Kryptek_Mandrake">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3882,7 +3882,7 @@
     </type>	
     <type name="MSFC_M4A1_Kryptek_Wraith">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3896,7 +3896,7 @@
     </type>	
     <type name="MSFC_M4A1_Kryptek_Raid">
          <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -4937,7 +4937,7 @@
     </type>	
     <type name="MSFC_Tigr308_10_Rnd">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -4950,7 +4950,7 @@
 <!-- AKS-74U --->
 	<type name="MSFC_AKS74U_WHITE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -4964,7 +4964,7 @@
     </type>	
 	<type name="MSFC_AKS74U_ATACS_AU">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -4978,7 +4978,7 @@
     </type>		
 	<type name="MSFC_AKS74U_ATACS_FG">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -4992,7 +4992,7 @@
     </type>		
 	<type name="MSFC_AKS74U_BLUE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5006,7 +5006,7 @@
     </type>		
 	<type name="MSFC_AKS74U_EMR">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5020,7 +5020,7 @@
     </type>		
 	<type name="MSFC_AKS74U_Flecktarn">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5034,7 +5034,7 @@
     </type>		
 	<type name="MSFC_AKS74U_HEX">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5048,7 +5048,7 @@
     </type>		
 	<type name="MSFC_AKS74U_MARPAT_WD">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5062,7 +5062,7 @@
     </type>		
 	<type name="MSFC_AKS74U_MULTICAM">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5076,7 +5076,7 @@
     </type>		
 	<type name="MSFC_AKS74U_MULTICAM_BLACK">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5090,7 +5090,7 @@
     </type>		
 	<type name="MSFC_AKS74U_MULTICAM_TROPIC">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5104,7 +5104,7 @@
     </type>		
 	<type name="MSFC_AKS74U_SNAKE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5118,7 +5118,7 @@
     </type>		
 	<type name="MSFC_AKS74U_SNAKE_GREEN">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5132,7 +5132,7 @@
     </type>		
 	<type name="MSFC_AKS74U_SURPAT">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5146,7 +5146,7 @@
     </type>		
 	<type name="MSFC_AKS74U_VIPER_WESTERN">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5160,7 +5160,7 @@
     </type>		
 	<type name="MSFC_AKS74U_Woodland">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5174,7 +5174,7 @@
     </type>		
 	<type name="MSFC_AKS74U_SURPAT_TAN">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5188,7 +5188,7 @@
     </type>		
 	<type name="MSFC_AKS74U_ORANGE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5202,7 +5202,7 @@
     </type>		
 	<type name="MSFC_AKS74U_RED">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5216,7 +5216,7 @@
     </type>		
 	<type name="MSFC_AKS74U_DARK">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5230,7 +5230,7 @@
     </type>		
 	<type name="MSFC_AKS74U_MATRIX">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5244,7 +5244,7 @@
     </type>		
 	<type name="MSFC_AKS74U_REDBLACKWHITE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5258,7 +5258,7 @@
     </type>		
 	<type name="MSFC_AKS74U_Honeycomb">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5272,7 +5272,7 @@
     </type>		
 	<type name="MSFC_AKS74U_STAR">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5287,7 +5287,7 @@
 <!--- AKM --->
     <type name="MSFC_AKM_Tan">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5301,7 +5301,7 @@
     </type>
     <type name="MSFC_AKM_Green">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5315,7 +5315,7 @@
     </type>	
     <type name="MSFC_AKM_Black">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5329,7 +5329,7 @@
     </type>	
     <type name="MSFC_AKM_Gray">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5343,7 +5343,7 @@
     </type>		
     <type name="MSFC_AKM_White">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5357,7 +5357,7 @@
     </type>			
     <type name="MSFC_AKM_ATACS_FG">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5371,7 +5371,7 @@
     </type>		
     <type name="MSFC_AKM_BLUE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5385,7 +5385,7 @@
     </type>	
     <type name="MSFC_AKM_EMR">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5399,7 +5399,7 @@
     </type>	
     <type name="MSFC_AKM_Flecktarn">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5413,7 +5413,7 @@
     </type>	
     <type name="MSFC_AKM_HEX">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5427,7 +5427,7 @@
     </type>			
     <type name="MSFC_AKM_MARPAT_WD">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5441,7 +5441,7 @@
     </type>	
     <type name="MSFC_AKM_Multicam">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5455,7 +5455,7 @@
     </type>	
     <type name="MSFC_AKM_MulticamBlack">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5469,7 +5469,7 @@
     </type>	
     <type name="MSFC_AKM_MulticamTropic">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5483,7 +5483,7 @@
     </type>		
     <type name="MSFC_AKM_SNAKE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5497,7 +5497,7 @@
     </type>	
     <type name="MSFC_AKM_SNAKE_GREEN">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5511,7 +5511,7 @@
     </type>	
     <type name="MSFC_AKM_SURPAT">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5525,7 +5525,7 @@
     </type>		
     <type name="MSFC_AKM_ViperWestern">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5539,7 +5539,7 @@
     </type>	
     <type name="MSFC_AKM_WOODLAND">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5553,7 +5553,7 @@
     </type>	
     <type name="MSFC_AKM_ATACS_AU">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5567,7 +5567,7 @@
     </type>	
     <type name="MSFC_AKM_Kryptek_Banshee">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5581,7 +5581,7 @@
     </type>		
     <type name="MSFC_AKM_Kryptek_Neptune">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5595,7 +5595,7 @@
     </type>		
     <type name="MSFC_AKM_Kryptek_Typhon">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5609,7 +5609,7 @@
     </type>		
     <type name="MSFC_AKM_Kryptek_Mandrake">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5623,7 +5623,7 @@
     </type>		
     <type name="MSFC_AKM_Kryptek_Wraith">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5637,7 +5637,7 @@
     </type>		
     <type name="MSFC_AKM_Kryptek_Raid">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5652,7 +5652,7 @@
 <!--- AK-101 --->
 	<type name="MSFC_AK101_WHITE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5666,7 +5666,7 @@
     </type>	
 	<type name="MSFC_AK101_ATACS_AU">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5680,7 +5680,7 @@
     </type>		
 	<type name="MSFC_AK101_ATACS_FG">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5694,7 +5694,7 @@
     </type>		
 	<type name="MSFC_AK101_BLUE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5708,7 +5708,7 @@
     </type>		
 	<type name="MSFC_AK101_EMR">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5722,7 +5722,7 @@
     </type>		
 	<type name="MSFC_AK101_Flecktarn">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5736,7 +5736,7 @@
     </type>		
 	<type name="MSFC_AK101_HEX">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5750,7 +5750,7 @@
     </type>		
 	<type name="MSFC_AK101_MARPAT_WD">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5764,7 +5764,7 @@
     </type>		
 	<type name="MSFC_AK101_MULTICAM">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5778,7 +5778,7 @@
     </type>		
 	<type name="MSFC_AK101_MULTICAM_BLACK">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5792,7 +5792,7 @@
     </type>		
 	<type name="MSFC_AK101_MULTICAM_TROPIC">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5806,7 +5806,7 @@
     </type>		
 	<type name="MSFC_AK101_SNAKE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5820,7 +5820,7 @@
     </type>		
 	<type name="MSFC_AK101_SNAKE_GREEN">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5834,7 +5834,7 @@
     </type>		
 	<type name="MSFC_AK101_SURPAT">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5848,7 +5848,7 @@
     </type>		
 	<type name="MSFC_AK101_VIPER_WESTERN">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5862,7 +5862,7 @@
     </type>		
 	<type name="MSFC_AK101_Woodland">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5876,7 +5876,7 @@
     </type>		
 	<type name="MSFC_AK101_SURPAT_TAN">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5890,7 +5890,7 @@
     </type>		
 	<type name="MSFC_AK101_ORANGE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5904,7 +5904,7 @@
     </type>		
 	<type name="MSFC_AK101_RED">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5918,7 +5918,7 @@
     </type>		
 	<type name="MSFC_AK101_DARK">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5932,7 +5932,7 @@
     </type>		
 	<type name="MSFC_AK101_MATRIX">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5946,7 +5946,7 @@
     </type>		
 	<type name="MSFC_AK101_REDBLACKWHITE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5960,7 +5960,7 @@
     </type>		
 	<type name="MSFC_AK101_Honeycomb">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5974,7 +5974,7 @@
     </type>		
 	<type name="MSFC_AK101_STAR">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5989,7 +5989,7 @@
 <!--- AK74 --->
 	<type name="MSFC_AK74_WHITE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6003,7 +6003,7 @@
     </type>	
 	<type name="MSFC_AK74_ATACS_AU">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6017,7 +6017,7 @@
     </type>		
 	<type name="MSFC_AK74_ATACS_FG">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6031,7 +6031,7 @@
     </type>		
 	<type name="MSFC_AK74_BLUE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6045,7 +6045,7 @@
     </type>		
 	<type name="MSFC_AK74_EMR">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6059,7 +6059,7 @@
     </type>		
 	<type name="MSFC_AK74_Flecktarn">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6073,7 +6073,7 @@
     </type>		
 	<type name="MSFC_AK74_HEX">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6087,7 +6087,7 @@
     </type>		
 	<type name="MSFC_AK74_MARPAT_WD">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6101,7 +6101,7 @@
     </type>		
 	<type name="MSFC_AK74_MULTICAM">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6115,7 +6115,7 @@
     </type>		
 	<type name="MSFC_AK74_MULTICAM_BLACK">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6129,7 +6129,7 @@
     </type>		
 	<type name="MSFC_AK74_MULTICAM_TROPIC">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6143,7 +6143,7 @@
     </type>		
 	<type name="MSFC_AK74_SNAKE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6157,7 +6157,7 @@
     </type>		
 	<type name="MSFC_AK74_SNAKE_GREEN">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6171,7 +6171,7 @@
     </type>		
 	<type name="MSFC_AK74_SURPAT">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6185,7 +6185,7 @@
     </type>		
 	<type name="MSFC_AK74_VIPER_WESTERN">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6199,7 +6199,7 @@
     </type>		
 	<type name="MSFC_AK74_Woodland">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6213,7 +6213,7 @@
     </type>		
 	<type name="MSFC_AK74_SURPAT_TAN">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6227,7 +6227,7 @@
     </type>		
 	<type name="MSFC_AK74_ORANGE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6241,7 +6241,7 @@
     </type>		
 	<type name="MSFC_AK74_RED">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6255,7 +6255,7 @@
     </type>		
 	<type name="MSFC_AK74_DARK">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6269,7 +6269,7 @@
     </type>		
 	<type name="MSFC_AK74_MATRIX">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6283,7 +6283,7 @@
     </type>		
 	<type name="MSFC_AK74_REDBLACKWHITE">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6297,7 +6297,7 @@
     </type>		
 	<type name="MSFC_AK74_Honeycomb">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6311,7 +6311,7 @@
     </type>		
 	<type name="MSFC_AK74_STAR">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6902,7 +6902,7 @@
     </type>		
     <type name="MSFC_AK_PlasticButtstock_Kryptek_Banshee">
 	        <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -6916,7 +6916,7 @@
     </type>
     <type name="MSFC_AK_RailHndgrd_Kryptek_Banshee">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -6930,7 +6930,7 @@
     </type>
     <type name="MSFC_AK_PlasticButtstock_Kryptek_Raid">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -6944,7 +6944,7 @@
     </type>
     <type name="MSFC_AK_RailHndgrd_Kryptek_Raid">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -6958,7 +6958,7 @@
     </type>
     <type name="MSFC_AK_PlasticButtstock_Kryptek_Wraith">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -6972,7 +6972,7 @@
     </type>
     <type name="MSFC_AK_RailHndgrd_Kryptek_Wraith">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -6986,7 +6986,7 @@
     </type>
     <type name="MSFC_AK_PlasticButtstock_Kryptek_Mandrake">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7000,7 +7000,7 @@
     </type>
     <type name="MSFC_AK_RailHndgrd_Kryptek_Mandrake">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7014,7 +7014,7 @@
     </type>
     <type name="MSFC_AK_PlasticButtstock_Kryptek_Typhon">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7028,7 +7028,7 @@
     </type>
     <type name="MSFC_AK_RailHndgrd_Kryptek_Typhon">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7042,7 +7042,7 @@
     </type>
     <type name="MSFC_AK_PlasticButtstock_Kryptek_Neptune">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7056,7 +7056,7 @@
     </type>
     <type name="MSFC_AK_RailHndgrd_Kryptek_Neptune">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7071,7 +7071,7 @@
 <!--- New Weapons --->
 	<type name="MSFC_RPK">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7085,7 +7085,7 @@
     </type>	
     <type name="MSFC_AK15">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7099,7 +7099,7 @@
     </type>		
     <type name="MSFC_AK103">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7113,7 +7113,7 @@
     </type>		
     <type name="MSFC_SCAR17">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7127,7 +7127,7 @@
     </type>		
 	<type name="MSFC_RPK_Mag_45Rnd">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7141,7 +7141,7 @@
     </type>	
 	<type name="MSFC_STANAG556_Mag_30Rnd">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7155,7 +7155,7 @@
     </type>		
     <type name="MSFC_PMAG762_Mag_30Rnd">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7169,7 +7169,7 @@
     </type>	
     <type name="MSFC_SCAR17_Mag_20Rnd">	
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7183,7 +7183,7 @@
     </type>	
     <type name="MSFC_AS_VAL">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7197,7 +7197,7 @@
     </type>		
     <type name="MSFC_AK_ALFA">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7211,7 +7211,7 @@
     </type>		
     <type name="MSFC_HK416">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7225,7 +7225,7 @@
     </type>		
     <type name="MSFC_AK_Zenitco_Handguard">	
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7239,7 +7239,7 @@
     </type>		
     <type name="MSFC_AK_Tactical_Buttstck">	
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7253,7 +7253,7 @@
     </type>		
     <type name="MSFC_Mag_AS_VAL_20Rnd">	
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7267,7 +7267,7 @@
     </type>	
     <type name="MSFC_PMAG556_Mag_30Rnd">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7281,7 +7281,7 @@
     </type>
     <type name="MSFC_TacAR15">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7295,7 +7295,7 @@
     </type>	
     <type name="MSFC_Mossberg590">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7309,7 +7309,7 @@
     </type>	
     <type name="MSFC_BlackEagleII">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7323,7 +7323,7 @@
     </type>	
     <type name="MSFC_M16A4">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7337,7 +7337,7 @@
     </type>	
     <type name="MSFC_TacAR15_SBR">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7351,7 +7351,7 @@
     </type>	
     <type name="MSFC_AR15">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7365,7 +7365,7 @@
     </type>	
     <type name="MSFC_AK15M">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7379,7 +7379,7 @@
     </type>		
     <type name="MSFC_AK12M">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7393,7 +7393,7 @@
     </type>		
     <type name="MSFC_AK13M">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7407,7 +7407,7 @@
     </type>		
     <type name="MSFC_RPK74">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7421,7 +7421,7 @@
     </type>
     <type name="MSFC_DRUM762_Mag_75Rnd">	
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7435,7 +7435,7 @@
     </type>	
     <type name="MSFC_RPK74_Mag_45Rnd">	
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7449,7 +7449,7 @@
     </type>
     <type name="MSFC_RPK16_DRUM_Mag_96Rnd">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7463,7 +7463,7 @@
     </type>	
     <type name="MSFC_AK12_Mag_30Rnd">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7477,7 +7477,7 @@
     </type>	
     <type name="MSFC_AK15_Mag_30Rnd">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7491,7 +7491,7 @@
     </type>	
     <type name="MSFC_RPK16_Mag_45Rnd">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7505,7 +7505,7 @@
     </type>	
     <type name="MSFC_RPK16_Mag_45Rnd_Green">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7519,7 +7519,7 @@
     </type>	
     <type name="MSFC_RPK16_Mag_45Rnd_Desert">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7533,7 +7533,7 @@
     </type>	
     <type name="MSFC_RPK16_DRUM_Mag_96Rnd_Green">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7547,7 +7547,7 @@
     </type>	
     <type name="MSFC_RPK16_DRUM_Mag_96Rnd_Desert">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7561,7 +7561,7 @@
     </type>	
     <type name="MSFC_AK12_Mag_30Rnd_Green">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7575,7 +7575,7 @@
     </type>	
     <type name="MSFC_AK12_Mag_30Rnd_Desert">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7589,7 +7589,7 @@
     </type>	
     <type name="MSFC_AK15_Mag_30Rnd_Green">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7603,7 +7603,7 @@
     </type>	
     <type name="MSFC_AK15_Mag_30Rnd_Desert">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7617,7 +7617,7 @@
     </type>
     <type name="MSFC_AK12MR">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7631,7 +7631,7 @@
     </type>
     <type name="MSFC_AK15MR">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7645,7 +7645,7 @@
     </type>	
     <type name="MSFC_RPK16">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7659,7 +7659,7 @@
     </type>	
     <type name="MSFC_AK12MR_Green">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7673,7 +7673,7 @@
     </type>	
     <type name="MSFC_AK15MR_Green">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7687,7 +7687,7 @@
     </type>	
     <type name="MSFC_RPK16_Green">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7701,7 +7701,7 @@
     </type>	
     <type name="MSFC_AK12MR_Desert">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7715,7 +7715,7 @@
     </type>	
     <type name="MSFC_AK15MR_Desert">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7729,7 +7729,7 @@
     </type>	
     <type name="MSFC_RPK16_Desert">
         <nominal>1</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7743,7 +7743,7 @@
     </type>	
     <type name="MSFC_PMAG556_Mag_30Rnd_Green">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7757,7 +7757,7 @@
     </type>	
     <type name="MSFC_PMAG556_Mag_30Rnd_Desert">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7771,7 +7771,7 @@
     </type>		
     <type name="MSFC_PMAG762_Mag_30Rnd_Green">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7785,7 +7785,7 @@
     </type>		
     <type name="MSFC_PMAG762_Mag_30Rnd_Desert">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7799,7 +7799,7 @@
     </type>
     <type name="MSFC_AKCR2019">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7897,7 +7897,7 @@
     </type>	
     <type name="MSFC_P250_Mag_15Rnd">
         <nominal>15</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -7911,7 +7911,7 @@
     </type>	
     <type name="MSFC_ORSIS_T5000_10_Rnd_Mag">
         <nominal>10</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -8023,7 +8023,7 @@
     </type>
     <type name="MSFC_Barret_10rnd_Mag">
         <nominal>10</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -8052,7 +8052,7 @@
     </type>	
     <type name="MSFC_AR15_9mm_mag">
         <nominal>10</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -8192,7 +8192,7 @@
     </type>		
     <type name="MSFC_OSV96_5rnd_Mag">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -8221,7 +8221,7 @@
     </type>	
     <type name="MSFC_PP19_Vityaz_Mag_30Rnd">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -8235,7 +8235,7 @@
     </type>	
     <type name="MSFC_L96A1_5_Rnd_Mag">
         <nominal>30</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>10800</lifetime>
+        <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>40</quantmin>
@@ -8250,7 +8250,7 @@
 <!--- Items --->
     <type name="MSFCBeerZhigulevskoe">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8261,7 +8261,7 @@
     </type>
     <type name="MSFCBankaJackSmithWhiskey">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8272,7 +8272,7 @@
     </type>	
     <type name="MSFCBankaBeerAmsterdam">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8283,7 +8283,7 @@
     </type>		
     <type name="MSFCBankaBeerPivasProvodnik">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8294,7 +8294,7 @@
     </type>	
     <type name="MSFCBankaBaikal">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8305,7 +8305,7 @@
     </type>		
     <type name="MSFCBankaBeerHeineken">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8316,7 +8316,7 @@
     </type>	
     <type name="MSFCBankaBeerFranziskanerWeissbier">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8327,7 +8327,7 @@
     </type>	
     <type name="MSFCBankaSTALKEREnergy">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8338,7 +8338,7 @@
     </type>	
     <type name="MSFCBankaCJ">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8349,7 +8349,7 @@
     </type>	
     <type name="MSFCBankaSPRUNK">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8360,7 +8360,7 @@
     </type>	
     <type name="MSFCBankaSPRUNKextreme">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8384,7 +8384,7 @@
     </type>	
     <type name="MSFC_Case">
         <nominal>5</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3888000</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8398,7 +8398,7 @@
     </type>		
     <type name="MSFC_Weapon_Tool_Box">
         <nominal>5</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3888000</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8412,7 +8412,7 @@
     </type>		
     <type name="MSFCPohuinBottle">
         <nominal>40</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>2700</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8426,7 +8426,7 @@
     </type>	
     <type name="MSFC_Case_Multicam">
         <nominal>5</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3888000</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8440,7 +8440,7 @@
     </type>		
     <type name="MSFC_Case_Multicam_Tropic">
         <nominal>5</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3888000</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8454,7 +8454,7 @@
     </type>		
     <type name="MSFC_Case_Multicam_Black">
         <nominal>5</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3888000</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8468,7 +8468,7 @@
     </type>		
     <type name="MSFC_Case_Multicam_Snow">
         <nominal>5</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3888000</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8482,7 +8482,7 @@
     </type>		
     <type name="MSFC_Case_ATACSFG">
         <nominal>5</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3888000</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8496,7 +8496,7 @@
     </type>		
     <type name="MSFC_Case_ATACSAU">
         <nominal>5</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3888000</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8510,7 +8510,7 @@
     </type>		
     <type name="MSFC_Case_SURPAT">
         <nominal>5</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3888000</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8524,7 +8524,7 @@
     </type>		
     <type name="MSFC_Case_SURPAT_Desert">
         <nominal>5</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3888000</lifetime>
+        <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8538,7 +8538,7 @@
     </type>		
     <type name="MSFCBeerZhigulevskoeBarnoe">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8549,7 +8549,7 @@
     </type>
     <type name="MSFCBeerZhigulevskoeSoviet">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8560,7 +8560,7 @@
     </type>	
     <type name="MSFCBeerBaltika9">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8571,7 +8571,7 @@
     </type>
     <type name="MSFCTushonkaCowCan">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8582,7 +8582,7 @@
     </type>	
     <type name="MSFCCornTsarReceptCan">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8593,7 +8593,7 @@
     </type>	
     <type name="MSFCCucumbersLoradoCan">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8604,7 +8604,7 @@
     </type>	
     <type name="MSFCMilkSgushenkaCan">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8615,7 +8615,7 @@
     </type>	
     <type name="MSFCPeasDyadyaVanyaCan">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8626,7 +8626,7 @@
     </type>	
     <type name="MSFCCanteenATACSAU">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8637,7 +8637,7 @@
     </type>	
     <type name="MSFCCanteenATACSFG">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8648,7 +8648,7 @@
     </type>	
     <type name="MSFCCanteenSURPATDesert">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8659,7 +8659,7 @@
     </type>	
     <type name="MSFCCanteenSURPAT">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8670,7 +8670,7 @@
     </type>	
     <type name="MSFCCanteenMulticamSnow">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8681,7 +8681,7 @@
     </type>	
     <type name="MSFCCanteenMulticamBlack">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8692,7 +8692,7 @@
     </type>	
     <type name="MSFCCanteenMulticamTropic">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8703,7 +8703,7 @@
     </type>	
     <type name="MSFCCanteenMulticam">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8714,7 +8714,7 @@
     </type>
     <type name="MSFCCanteenDesert">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8725,7 +8725,7 @@
     </type>
     <type name="MSFCCanteenGreen">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8736,7 +8736,7 @@
     </type>
     <type name="MSFCCanteenBlack">
         <nominal>70</nominal>
-        <lifetime>10800</lifetime>10800</lifetime>3600</lifetime>
+        <lifetime>10800</lifetime>
         <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>

@@ -1,0 +1,1143 @@
+<!-- Zombies -->
+<type name="MSFC_Zombie_FromLaba01">
+        <cargo preset="foodCity" />
+        <cargo preset="toolsCity" />
+        <cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+    </type>		
+    <type name="MSFC_Zombie_FromLaba02">
+        <cargo preset="foodCity" />
+        <cargo preset="toolsCity" />
+        <cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+    </type>		
+    <type name="MSFC_Zombie_FromLaba03">
+        <cargo preset="foodCity" />
+        <cargo preset="toolsCity" />
+        <cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+    </type>		
+    <type name="MSFC_Zombie_FromLaba04">
+        <cargo preset="foodCity" />
+        <cargo preset="toolsCity" />
+        <cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+    </type>		
+    <type name="MSFC_Zombie_RussianSoldier">
+        <cargo preset="foodCity" />
+        <cargo preset="toolsCity" />
+        <cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+    </type>		
+    <type name="MSFC_Zombie_AmericanSoldier">
+        <cargo preset="foodCity" />
+        <cargo preset="toolsCity" />
+        <cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+    </type>		
+    <type name="MSFC_Zombie_SURPATSoldier">
+        <cargo preset="foodCity" />
+        <cargo preset="toolsCity" />
+        <cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+    </type>		
+    <type name="MSFC_Zombie_MulticamTropicSoldier">
+        <cargo preset="foodCity" />
+        <cargo preset="toolsCity" />
+        <cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+    </type>		
+    <type name="MSFC_Zombie_MulticamSoldier">
+        <cargo preset="foodCity" />
+        <cargo preset="toolsCity" />
+        <cargo preset="toolsCity" />
+		<attachments preset="glassesCity" />
+		<attachments preset="hatsCity" />
+    </type>
+<!-- Winchester70 --->
+    <type name="MSFC_Winchester70_White">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>			
+    <type name="MSFC_Winchester70_ATACS_FG">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>		
+    <type name="MSFC_Winchester70_BLUE">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_Winchester70_EMR">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_Winchester70_Flecktarn">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_Winchester70_HEX">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>			
+    <type name="MSFC_Winchester70_MARPAT_WD">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_Winchester70_Multicam">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_Winchester70_MULTICAM_BLACK">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_Winchester70_MULTICAM_TROPIC">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>		
+    <type name="MSFC_Winchester70_SNAKE">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_Winchester70_SNAKE_GREEN">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_Winchester70_SURPAT">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>		
+    <type name="MSFC_Winchester70_ViperWestern">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_Winchester70_WOODLAND">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_Winchester70_ATACS_AU">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+<!-- UMP --->
+    <type name="MSFC_UMP_White">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>			
+    <type name="MSFC_UMP_ATACS_FG">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>		
+    <type name="MSFC_UMP_BLUE">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_UMP_EMR">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_UMP_Flecktarn">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_UMP_HEX">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>			
+    <type name="MSFC_UMP_MARPAT_WD">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_UMP_Multicam">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_UMP_MULTICAM_BLACK">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_UMP_MULTICAM_TROPIC">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>		
+    <type name="MSFC_UMP_SNAKE">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_UMP_SNAKE_GREEN">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_UMP_SURPAT">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>		
+    <type name="MSFC_UMP_ViperWestern">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_UMP_WOODLAND">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_UMP_ATACS_AU">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MSFC_UMP_Kryptek_Banshee">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_UMP_Kryptek_Neptune">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_UMP_Kryptek_Typhon">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_UMP_Kryptek_Mandrake">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_UMP_Kryptek_Wraith">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_UMP_Kryptek_Raid">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>		
+	<!-- SVD --->
+	<type name="MSFC_SVD_White">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>			
+    <type name="MSFC_SVD_ATACS_FG">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>		
+    <type name="MSFC_SVD_BLUE">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="MSFC_SVD_EMR">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="MSFC_SVD_Flecktarn">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="MSFC_SVD_HEX">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>			
+    <type name="MSFC_SVD_MARPAT_WD">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="MSFC_SVD_Multicam">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="MSFC_SVD_MULTICAM_BLACK">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="MSFC_SVD_MULTICAM_TROPIC">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>		
+    <type name="MSFC_SVD_SNAKE">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="MSFC_SVD_SNAKE_GREEN">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="MSFC_SVD_SURPAT">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>		
+    <type name="MSFC_SVD_ViperWestern">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="MSFC_SVD_WOODLAND">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="MSFC_SVD_ATACS_AU">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>		
+    <type name="MSFC_SVD_Wooden">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="MSFC_SVD_Kryptek_Banshee">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="MSFC_SVD_Kryptek_Neptune">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="MSFC_SVD_Kryptek_Typhon">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="MSFC_SVD_Kryptek_Mandrake">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="MSFC_SVD_Kryptek_Wraith">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="MSFC_SVD_Kryptek_Raid">
+	<!--- SKS --->
+	<type name="MSFC_SKS_White">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>			
+    <type name="MSFC_SKS_ATACS_FG">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>		
+    <type name="MSFC_SKS_BLUE">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_SKS_EMR">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_SKS_Flecktarn">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_SKS_HEX">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>			
+    <type name="MSFC_SKS_MARPAT_WD">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_SKS_Multicam">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_SKS_MULTICAM_BLACK">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_SKS_MULTICAM_TROPIC">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>		
+    <type name="MSFC_SKS_SNAKE">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_SKS_SNAKE_GREEN">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_SKS_SURPAT">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>		
+    <type name="MSFC_SKS_ViperWestern">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_SKS_WOODLAND">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
+    <type name="MSFC_SKS_ATACS_AU">
+        <nominal>1</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>	
